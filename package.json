@@ -1,0 +1,10 @@
+{
+  "name": "zoho-greet-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
